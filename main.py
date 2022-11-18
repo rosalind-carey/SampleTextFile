@@ -1,4 +1,4 @@
-f = open("sample.txt")
-contents = f.read()
-f.close()
-print(contents)
+with open("sample.txt") as f:
+  f_contents = f.read()
+  print(f_contents)
+
