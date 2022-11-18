@@ -1,5 +1,10 @@
 This is a sample text file
-Sample line 1
-Sample line 2
-Sample line 3
-Sample line 4
+With multiple lines of data
+Third line
+Fourth line
+Fifth line
+Sixth line
+Seventh line
+Eighth line
+Ninth line
+Tenth line
